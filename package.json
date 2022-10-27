@@ -1,6 +1,6 @@
 {
   "name": "@dyonic/latest-news",
-  "version": "1.4.0",
+  "version": "1.0.1",
   "description": "A script that loads blogs posts into a given template",
   "main": "src/index.js",
   "iife": "dist/latest-news.js",
